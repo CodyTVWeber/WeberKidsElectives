@@ -3,7 +3,7 @@
 This folder contains a progression-first mechanics curriculum with a classical approach (Grammar → Logic → Rhetoric). Age ranges are suggestions; proceed at your learner’s pace. Safety and resources are provided separately.
 
 #### Start here
-- Foundations topics (suggested ages 6–7) overview: `year-1/syllabus.md`
+- Foundations topics (suggested ages 6–7) overview: `foundations/syllabus.md`
 - Weekly session template: `templates/weekly-session-template.md`
 - Stop Here checklist: `templates/stop-here-checklist.md`
 - Engineer’s notebook template: `templates/engineers-notebook-template.md`

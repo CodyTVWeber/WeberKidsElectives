@@ -118,8 +118,8 @@ def build_progression(root: Path) -> Path:
     if resources_path.exists():
         parts.append("## Resources and kits\n\n" + read_text(resources_path).strip() + "\n\n")
 
-    # Foundations lessons (Year 1 weeks → Stage: Foundations ages 6–7)
-    weeks_dir = curriculum_dir / "year-1" / "weeks"
+    # Foundations lessons (foundations/modules → Stage: Foundations ages 6–7)
+    weeks_dir = curriculum_dir / "foundations" / "modules"
     if weeks_dir.exists():
         parts.append("## Foundations (suggested ages 6–7)\n\n")
         for week_file in sorted(weeks_dir.glob("week-*.md")):

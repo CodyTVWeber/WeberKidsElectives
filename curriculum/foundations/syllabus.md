@@ -1,8 +1,8 @@
-### Year 1 syllabus (ages ~6–7), 30 weeks
+### Foundations syllabus (suggested ages ~6–7)
 
-Three 10‑week terms. Each week uses the weekly session template and ends with the Stop Here checklist.
+Progression modules grouped in three themes. Use the weekly session template and end with the Stop Here checklist.
 
-#### Term 1: Simple machines, fasteners, careful teardown
+#### Theme 1: Simple machines, fasteners, careful teardown
 1. Workshop habits & safety; parts labeling; lefty‑loosey/righty‑tighty
 2. Levers: classes of levers; make a lever scale
 3. Inclined plane & wedge; test with ramp
@@ -14,7 +14,7 @@ Three 10‑week terms. Each week uses the weekly session template and ends with 
 9. Ratchets & pawls; dissect a tape measure (adult preps edges)
 10. Mini‑capstone: “Simple Machines Museum” teach‑back
 
-#### Term 2: Mechanisms you can hold
+#### Theme 2: Mechanisms you can hold
 11. Linkages & cams; cardboard cam automata
 12. Clutches & friction; spinning disk + felt pads demo
 13. Bearings & bushings; fidget spinner teardown
@@ -26,7 +26,7 @@ Three 10‑week terms. Each week uses the weekly session template and ends with 
 19. Take‑apart day: kitchen timer or manual can opener
 20. Mini‑capstone: poster “How a gear train helps work”
 
-#### Term 3: Systems thinking seeds
+#### Theme 3: Systems thinking seeds
 21. Systems: input‑process‑output; map 2 household systems
 22. Energy forms; rubber band car build
 23. Basic DC: battery, switch, motor spin (safe low‑voltage)
