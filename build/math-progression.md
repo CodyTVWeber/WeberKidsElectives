@@ -3,6 +3,8 @@
 This document is composed from the nested math curriculum. Time references are removed.
 Use suggested ages as guidance and move at your pace.
 
+---
+
 ## Resources and manipulatives
 
 ### Resources and manipulatives (Math)
@@ -16,6 +18,7 @@ Use suggested ages as guidance and move at your pace.
 - Whiteboard/markers; math journal
 - Recommended references: `Beast Academy 1–3`, `Singapore Math 1–3`, `Kitchen Table Math`
 
+---
 
 ## Foundations (suggested ages 4–8)
 
@@ -55,6 +58,8 @@ Suggested ages: 4–8
 - Small parts caution; keep away from mouths and younger siblings
 
 
+---
+
 ### Number bonds to 10 (pairs that make 10)
 Suggested ages: 4–8
 
@@ -90,6 +95,8 @@ Suggested ages: 4–8
 - Keep counters off the floor to avoid slipping
 
 
+---
+
 ### Ten‑frames and subitizing
 Suggested ages: 4–8
 
@@ -122,6 +129,8 @@ Suggested ages: 4–8
 #### Safety
 - Keep counters in trays; tidy workspace
 
+
+---
 
 ### Addition within 10 (count on, make‑10)
 Suggested ages: 4–8
@@ -159,6 +168,8 @@ Suggested ages: 4–8
 - Keep counters away from mouths; tidy pieces between problems
 
 
+---
+
 ### Subtraction within 10 (count back, think addition)
 Suggested ages: 4–8
 
@@ -193,6 +204,8 @@ Suggested ages: 4–8
 #### Safety
 - Keep small parts organized; cap markers after use
 
+
+---
 
 ### Compose/decompose with base‑ten blocks
 Suggested ages: 4–8
@@ -229,6 +242,8 @@ Suggested ages: 4–8
 - Keep blocks on table to avoid slips; clean up promptly
 
 
+---
+
 ### Place value: tens and ones; expanded form
 Suggested ages: 4–8
 
@@ -263,6 +278,8 @@ Suggested ages: 4–8
 #### Safety
 - Keep small pieces contained; hands clear while trading blocks
 
+
+---
 
 ### Skip‑count by 2s/5s/10s; even/odd
 Suggested ages: 4–8
@@ -299,6 +316,8 @@ Suggested ages: 4–8
 - Keep stickers and small counters away from mouths
 
 
+---
+
 ### Doubles and near‑doubles strategies
 Suggested ages: 4–8
 
@@ -332,6 +351,8 @@ Suggested ages: 4–8
 #### Safety
 - Mind marker caps and small counters
 
+
+---
 
 ### Story problems; bar models and number bonds
 Suggested ages: 4–8
@@ -368,6 +389,8 @@ Suggested ages: 4–8
 - Keep markers capped; tidy counters promptly
 
 
+---
+
 ### Measurement: length comparison and nonstandard units
 Suggested ages: 4–8
 
@@ -401,6 +424,8 @@ Suggested ages: 4–8
 #### Safety
 - Keep small items away from mouths; put away string carefully
 
+
+---
 
 ### Time: read analog o'clock to hour and half‑hour
 Suggested ages: 4–8
@@ -436,6 +461,8 @@ Suggested ages: 4–8
 - Gentle handling of clock; store safely
 
 
+---
+
 ### Money: identify coins and count like coins
 Suggested ages: 4–8
 
@@ -469,6 +496,8 @@ Suggested ages: 4–8
 #### Safety
 - Supervise small coins; keep out of mouths; wash hands after
 
+
+---
 
 ### Geometry: 2D shapes, attributes, composing shapes
 Suggested ages: 4–8
@@ -504,6 +533,8 @@ Suggested ages: 4–8
 - Mind small pieces; careful with glue or scissors if used
 
 
+---
+
 ### Data: tally marks and picture graphs
 Suggested ages: 4–8
 
@@ -537,6 +568,8 @@ Suggested ages: 4–8
 #### Safety
 - Keep small items organized; tidy workspace
 
+
+---
 
 ### Comparing numbers and number line (0–100)
 Suggested ages: 4–8
@@ -572,6 +605,8 @@ Suggested ages: 4–8
 - Keep small cards organized; avoid paper cuts
 
 
+---
+
 ### Add within 20 (make‑10 and bridge‑10)
 Suggested ages: 4–8
 
@@ -605,6 +640,8 @@ Suggested ages: 4–8
 #### Safety
 - Organize counters; cap markers
 
+
+---
 
 ### Subtract within 20 (think addition and bridge‑10)
 Suggested ages: 4–8
@@ -640,6 +677,8 @@ Suggested ages: 4–8
 - Manage small parts; keep workspace clear
 
 
+---
+
 ### Intro to arrays and equal groups (pre‑multiplication)
 Suggested ages: 4–8
 
@@ -674,6 +713,8 @@ Suggested ages: 4–8
 - Keep small pieces contained; tidy stickers
 
 
+---
+
 ### Mini‑capstone: number sense showcase and family share
 Suggested ages: 4–8
 
@@ -707,6 +748,10 @@ Suggested ages: 4–8
 #### Safety
 - Keep workspace organized; gentle with shared materials
 
+
+---
+
+---
 
 ## Outline
 

@@ -3,6 +3,8 @@
 This document is composed from the nested music curriculum. Time references are removed.
 Use suggested ages as guidance and move at your pace.
 
+---
+
 ## Resources and props
 
 ### Music resources and kits
@@ -22,6 +24,7 @@ Use suggested ages as guidance and move at your pace.
 - Scarf/ribbon for phrasing
 - Water bottle
 
+---
 
 ## Foundations (suggested ages 3–7)
 
@@ -64,6 +67,8 @@ Suggested ages: 3–7
 - No shouting; sip water; rest if voice feels tired
 
 
+---
+
 ### Beat vs. Words (Mary Had a Little Lamb)
 Suggested ages: 3–7
 
@@ -96,6 +101,8 @@ Suggested ages: 3–7
 #### Safety
 - Gentle clapping; keep voice easy
 
+
+---
 
 ### Echo Pitch & Simple Dynamics (Row, Row, Row Your Boat)
 Suggested ages: 3–7
@@ -131,6 +138,8 @@ Suggested ages: 3–7
 - Keep volume comfortable; no forcing
 
 
+---
+
 ### Tall Vowel Diction (Jesus Loves Me v1)
 Suggested ages: 3–7
 
@@ -163,6 +172,8 @@ Suggested ages: 3–7
 #### Safety
 - No jaw tension; rest if tired
 
+
+---
 
 ### Five-Note Scale (do–so) and Solfège patterns
 Suggested ages: 3–7
@@ -198,6 +209,8 @@ Suggested ages: 3–7
 - Keep volume gentle; hydrate
 
 
+---
+
 ### Phrase Shape (Skip to My Lou)
 Suggested ages: 3–7
 
@@ -232,6 +245,8 @@ Suggested ages: 3–7
 - Relaxed breath; no forcing
 
 
+---
+
 ### Breath Timing (Amazing Grace v1)
 Suggested ages: 3–7
 
@@ -265,6 +280,8 @@ Suggested ages: 3–7
 - Rest voice if tired; sip water
 
 
+---
+
 ### Round Basics (Frère Jacques melody)
 Suggested ages: 3–7
 
@@ -296,6 +313,8 @@ Suggested ages: 3–7
 #### Safety
 - Gentle volume; listen first, then sing
 
+
+---
 
 ### Sing a Round (Frère Jacques 2 voices)
 Suggested ages: 3–7
@@ -329,6 +348,8 @@ Suggested ages: 3–7
 - Keep it light; avoid shouting
 
 
+---
+
 ### Rhythm Names: ta / ti‑ti (Twinkle phrase B)
 Suggested ages: 3–7
 
@@ -361,6 +382,8 @@ Suggested ages: 3–7
 - Gentle hands and voice
 
 
+---
+
 ### Read Steps C–G (Mary full)
 Suggested ages: 3–7
 
@@ -392,6 +415,8 @@ Suggested ages: 3–7
 #### Safety
 - Stay relaxed; small voice
 
+
+---
 
 ### Dynamic Contrast (Row—soft vs medium)
 Suggested ages: 3–7
@@ -426,6 +451,8 @@ Suggested ages: 3–7
 - Avoid pushing for loud; prioritize ease
 
 
+---
+
 ### Clear Consonants (Yankee Doodle)
 Suggested ages: 3–7
 
@@ -458,6 +485,8 @@ Suggested ages: 3–7
 - Keep jaw relaxed; no tension
 
 
+---
+
 ### Hymn Verse Memory (Jesus Loves Me—no sheet)
 Suggested ages: 3–7
 
@@ -489,6 +518,8 @@ Suggested ages: 3–7
 #### Safety
 - Keep volume comfortable
 
+
+---
 
 ### Pitch Center & Tempo (Amazing Grace steady)
 Suggested ages: 3–7
@@ -523,6 +554,8 @@ Suggested ages: 3–7
 - Rest between attempts; no pushing
 
 
+---
+
 ### Interval Sense (do–mi, do–so)—solfège drills
 Suggested ages: 3–7
 
@@ -554,6 +587,8 @@ Suggested ages: 3–7
 #### Safety
 - Gentle voice; hydrate
 
+
+---
 
 ### Long Notes, Calm Breath (Mary sustains)
 Suggested ages: 3–7
@@ -588,6 +623,8 @@ Suggested ages: 3–7
 - No straining; keep it easy
 
 
+---
+
 ### Story/Face Expression (Home on the Range)
 Suggested ages: 3–7
 
@@ -621,6 +658,8 @@ Suggested ages: 3–7
 - Keep volume moderate; relaxed jaw
 
 
+---
+
 ### Round Accuracy & Balance (Row entry timing)
 Suggested ages: 3–7
 
@@ -652,6 +691,8 @@ Suggested ages: 3–7
 #### Safety
 - Avoid shouting; listen actively
 
+
+---
 
 ### Performance Basics (start note, finish, bow)
 Suggested ages: 3–7
@@ -686,6 +727,10 @@ Suggested ages: 3–7
 #### Safety
 - Keep posture comfortable; no strain
 
+
+---
+
+---
 
 ## Outline
 

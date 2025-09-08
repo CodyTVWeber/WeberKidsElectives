@@ -3,6 +3,8 @@
 This single document is composed from the nested curriculum, with time references removed.
 Use age ranges as guidance and proceed at your learner’s pace.
 
+---
+
 ## Safety guide
 
 ### Safety guide (spiraled by age)
@@ -31,6 +33,7 @@ Always supervise. Use eye protection, closed-toe shoes, and gloves as appropriat
 - Stock a basic kit (bandages, saline, tweezers). Know emergency contacts.
 - Stop work on any cut, spark, smoke, smell of fuel, or tool malfunction.
 
+---
 
 ## Resources and kits
 
@@ -62,6 +65,7 @@ Always supervise. Use eye protection, closed-toe shoes, and gloves as appropriat
 - Middle: Torx/Allen, pliers set, socket set, multimeter
 - Later: torque wrench, feeler gauges, compression tester, spark plug wrench
 
+---
 
 ## Foundations (suggested ages 6–7)
 
@@ -106,6 +110,8 @@ Suggested ages: 6–7
 - Adult controls sharp edges; stop on any pinch/strip; tools back to home after use
 
 
+---
+
 ### Levers: classes and lever scale
 Suggested ages: 6–7
 
@@ -140,6 +146,8 @@ Suggested ages: 6–7
 - No sharp edges; keep lever stable to avoid pinches
 
 
+---
+
 ### Inclined plane & wedge; ramp tests
 Suggested ages: 6–7
 
@@ -173,6 +181,8 @@ Suggested ages: 6–7
 - Stabilize ramps; keep fingers clear
 
 
+---
+
 ### Wheel & axle; toy car teardown
 Suggested ages: 6–7
 
@@ -205,6 +215,8 @@ Suggested ages: 6–7
 #### Safety
 - Keep small parts contained; magnet tray prevents loss
 
+
+---
 
 ### Screws & fasteners; screw ID board
 Suggested ages: 6–7
@@ -240,6 +252,8 @@ Suggested ages: 6–7
 - Adult handles drilling; keep fingers away from screw tips
 
 
+---
+
 ### Pulleys: single vs compound; lift a weight
 Suggested ages: 6–7
 
@@ -271,6 +285,8 @@ Suggested ages: 6–7
 #### Safety
 - Keep toes clear of falling weight; check knots
 
+
+---
 
 ### Springs & stored energy
 Suggested ages: 6–7
@@ -304,6 +320,8 @@ Suggested ages: 6–7
 - Control slinky/snaps; keep eyes protected
 
 
+---
+
 ### Gears: spur vs worm; gear ratios with LEGO/Technic
 Suggested ages: 6–7
 
@@ -335,6 +353,8 @@ Suggested ages: 6–7
 #### Safety
 - Keep small parts contained; no mouth contact
 
+
+---
 
 ### Ratchets & pawls; tape measure teardown
 Suggested ages: 6–7
@@ -368,6 +388,8 @@ Suggested ages: 6–7
 - Adult supervises recoil spring; keep fingers clear
 
 
+---
+
 ### Mini‑capstone: Simple Machines Museum
 Suggested ages: 6–7
 
@@ -387,6 +409,8 @@ Suggested ages: 6–7
 #### Assessment
 - Can identify machine and tell how it makes work easier
 
+
+---
 
 ### Linkages & cams; cardboard cam automata
 Suggested ages: 6–7
@@ -410,6 +434,8 @@ Suggested ages: 6–7
 - Adult handles sharp cutting
 
 
+---
+
 ### Clutches & friction; spinning disk demo
 Suggested ages: 6–7
 
@@ -431,6 +457,8 @@ Suggested ages: 6–7
 #### Safety
 - Keep fingers clear of fast rotation
 
+
+---
 
 ### Bearings & bushings; fidget spinner teardown
 Suggested ages: 6–7
@@ -454,6 +482,8 @@ Suggested ages: 6–7
 - Small parts hazard; contain
 
 
+---
+
 ### Belts & chains; belt/chain models
 Suggested ages: 6–7
 
@@ -475,6 +505,8 @@ Suggested ages: 6–7
 #### Safety
 - Keep fingers out of moving loops
 
+
+---
 
 ### Valves & flow; syringe check valve
 Suggested ages: 6–7
@@ -498,6 +530,8 @@ Suggested ages: 6–7
 - Use clean components; no mouth contact
 
 
+---
+
 ### Measuring & tolerances; go/no‑go gauge
 Suggested ages: 6–7
 
@@ -519,6 +553,8 @@ Suggested ages: 6–7
 #### Safety
 - Adult handles drilling
 
+
+---
 
 ### Materials: wood vs metal vs plastic; compare
 Suggested ages: 6–7
@@ -542,6 +578,8 @@ Suggested ages: 6–7
 - Avoid sharp edges; supervise
 
 
+---
+
 ### Exploded diagrams; stapler rebuild
 Suggested ages: 6–7
 
@@ -564,6 +602,8 @@ Suggested ages: 6–7
 - Control spring; adult assists
 
 
+---
+
 ### Take‑apart day: kitchen timer or manual can opener
 Suggested ages: 6–7
 
@@ -584,6 +624,8 @@ Suggested ages: 6–7
 - Tape sharp edges; supervise
 
 
+---
+
 ### Mini‑capstone: narrated poster
 Suggested ages: 6–7
 
@@ -601,6 +643,8 @@ Suggested ages: 6–7
 4) Notebook reflection; Stop Here
 
 
+---
+
 ### Systems: input‑process‑output maps
 Suggested ages: 6–7
 
@@ -616,6 +660,8 @@ Suggested ages: 6–7
 2) Discuss failure modes: if no output, which input/process could fail?
 3) Notebook; Stop Here
 
+
+---
 
 ### Energy forms; rubber band car
 Suggested ages: 6–7
@@ -635,6 +681,8 @@ Suggested ages: 6–7
 #### Safety
 - Supervise skewers; avoid snapping bands toward face
 
+
+---
 
 ### Basic DC circuits: battery, switch, motor
 Suggested ages: 6–7
@@ -657,6 +705,8 @@ Suggested ages: 6–7
 - Low voltage only; no mains; avoid short circuits
 
 
+---
+
 ### Motors vs engines; four‑stroke chant
 Suggested ages: 6–7
 
@@ -672,6 +722,8 @@ Suggested ages: 6–7
 2) Teach four‑stroke chant: intake, compression, power, exhaust
 3) Notebook; Stop Here
 
+
+---
 
 ### Sensors as “feelers”: reed switch buzzer
 Suggested ages: 6–7
@@ -692,6 +744,8 @@ Suggested ages: 6–7
 - Polarity for LED; avoid short circuits
 
 
+---
+
 ### Tool care and storage; torque respect
 Suggested ages: 6–7
 
@@ -710,6 +764,8 @@ Suggested ages: 6–7
 #### Safety
 - Minimal oil; wipe hands before handling other items
 
+
+---
 
 ### Practicum: wind‑up toy full teardown/rebuild
 Suggested ages: 6–7
@@ -730,6 +786,8 @@ Suggested ages: 6–7
 - Control springs; small parts contained
 
 
+---
+
 ### Fastener board timed challenge
 Suggested ages: 6–7
 
@@ -749,6 +807,8 @@ Suggested ages: 6–7
 - No rushing that causes slips; stop if bit jumps
 
 
+---
+
 ### Teach‑back: chosen mechanism
 Suggested ages: 6–7
 
@@ -765,6 +825,8 @@ Suggested ages: 6–7
 3) Notebook reflection; Stop Here
 
 
+---
+
 ### Capstone: family demo and portfolio check
 Suggested ages: 6–7
 
@@ -780,6 +842,10 @@ Suggested ages: 6–7
 2) Family demo
 3) Award “Foundations” badge; plan Year 2
 
+
+---
+
+---
 
 ### Progression beyond foundations
 

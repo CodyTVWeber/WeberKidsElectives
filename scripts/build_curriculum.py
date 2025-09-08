@@ -112,28 +112,31 @@ def build_progression(root: Path) -> Path:
         safety_md = re.sub(r"^-\s*Years\s*2[–-]3:\s*", "- Suggested ages 7–9: ", safety_md, flags=re.MULTILINE)
         safety_md = re.sub(r"^-\s*Years\s*4[–-]6:\s*", "- Suggested ages 9–14: ", safety_md, flags=re.MULTILINE)
         safety_md = re.sub(r"^-\s*Years\s*7\+:\s*", "- Suggested ages 14+: ", safety_md, flags=re.MULTILINE)
-        parts.append("## Safety guide\n\n" + safety_md.strip() + "\n\n")
+        parts.append("---\n\n## Safety guide\n\n" + safety_md.strip() + "\n\n---\n")
 
     # Resources
     resources_path = curriculum_dir / "resources.md"
     if resources_path.exists():
-        parts.append("## Resources and kits\n\n" + read_text(resources_path).strip() + "\n\n")
+        parts.append("## Resources and kits\n\n" + read_text(resources_path).strip() + "\n\n---\n")
 
     # Foundations lessons (foundations/modules → Stage: Foundations ages 6–7)
     weeks_dir = curriculum_dir / "foundations" / "modules"
     if weeks_dir.exists():
         parts.append("## Foundations (suggested ages 6–7)\n\n")
         files = sorted(weeks_dir.glob("*.md"))
-        for week_file in files:
+        for i, week_file in enumerate(files):
             if week_file.name.lower() == "readme.md":
                 continue
             transformed = transform_week_content(read_text(week_file), suggested_ages="6–7")
             parts.append(transformed)
+            # Add separator between modules (but not after the last one)
+            if i < len(files) - 1:
+                parts.append("---\n")
 
     # Progression beyond foundations (Years 2–6 outline)
     outline_path = curriculum_dir / "years-2-6-outline.md"
     if outline_path.exists():
-        parts.append(transform_years_outline(read_text(outline_path)))
+        parts.append("---\n\n" + transform_years_outline(read_text(outline_path)))
 
     # Write Markdown
     output_md = build_dir / "progression.md"

@@ -61,20 +61,24 @@ def build_progression(root: Path) -> Path:
     # Resources
     resources = music_dir / "resources.md"
     if resources.exists():
-        parts.append("## Resources and props\n\n" + read_text(resources).strip() + "\n\n")
+        parts.append("---\n\n## Resources and props\n\n" + read_text(resources).strip() + "\n\n---\n")
 
     # Foundations
     parts.append("## Foundations (suggested ages 3–7)\n\n")
     modules_dir = music_dir / "foundations" / "modules"
-    for md_path in sorted(modules_dir.glob("*.md")):
+    module_files = sorted(modules_dir.glob("*.md"))
+    for i, md_path in enumerate(module_files):
         if md_path.name.lower() == "readme.md":
             continue
         parts.append(transform_module(read_text(md_path), ages="3–7"))
+        # Add separator between modules (but not after the last one)
+        if i < len(module_files) - 1:
+            parts.append("---\n")
 
     # Syllabus (as outline beyond modules)
     syllabus = music_dir / "foundations" / "syllabus.md"
     if syllabus.exists():
-        parts.append("## Outline\n\n" + read_text(syllabus).strip() + "\n\n")
+        parts.append("---\n\n## Outline\n\n" + read_text(syllabus).strip() + "\n\n")
 
     out_md = build_dir / "music-progression.md"
     write_text(out_md, "\n".join(parts).strip() + "\n")
