@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Keep rhythm steady while articulating
 
 #### Materials
-- `BellaAndPiper/sheet_music/Yankee_Doodle_C.ly`
+- `sheet_music/Yankee_Doodle_C.ly`
 
 #### Grammar
 - Consonant, articulation, diction

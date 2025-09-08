@@ -7,8 +7,8 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Identify steps vs skips
 
 #### Materials
-- `BellaAndPiper/sheet_music/solfege_patterns_C_major.ly`
-- `BellaAndPiper/sheet_music/warmups_five_note_scale_C_major.ly`
+- `sheet_music/solfege_patterns_C_major.ly`
+- `sheet_music/warmups_five_note_scale_C_major.ly`
 
 #### Grammar
 - Solfège, step, skip, scale

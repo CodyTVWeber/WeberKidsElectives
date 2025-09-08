@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Explore soft vs medium singing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Row_Row_Row_Your_Boat_C.ly`
+- `sheet_music/Row_Row_Row_Your_Boat_C.ly`
 
 #### Grammar
 - Echo, dynamics, soft (p), medium (mf)

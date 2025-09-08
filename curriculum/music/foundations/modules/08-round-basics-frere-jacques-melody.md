@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Count a one‑bar intro
 
 #### Materials
-- `BellaAndPiper/sheet_music/Frere_Jacques_round_C.ly`
+- `sheet_music/Frere_Jacques_round_C.ly`
 
 #### Grammar
 - Round, entry, overlap
