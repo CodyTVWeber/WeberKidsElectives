@@ -1,45 +1,32 @@
-### Progress Tracker (36 Weeks)
+### Progress Tracker (Levels & Checkpoints)
 
-Mark the week when completed. Use Notes to record strengths/next steps.
+Mark completion by Level and Checkpoint. Use Notes to record strengths/next steps.
 
-| Week | Date | Completed | Stickers/Treats | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | | [ ] | | |
-| 2 | | [ ] | | |
-| 3 | | [ ] | | |
-| 4 | | [ ] | | |
-| 5 | | [ ] | | |
-| 6 | | [ ] | | |
-| 7 | | [ ] | | |
-| 8 | | [ ] | | |
-| 9 | | [ ] | | |
-| 10 | | [ ] | | |
-| 11 | | [ ] | | |
-| 12 | | [ ] | | |
-| 13 | | [ ] | | |
-| 14 | | [ ] | | |
-| 15 | | [ ] | | |
-| 16 | | [ ] | | |
-| 17 | | [ ] | | |
-| 18 | | [ ] | | |
-| 19 | | [ ] | | |
-| 20 | | [ ] | | |
-| 21 | | [ ] | | |
-| 22 | | [ ] | | |
-| 23 | | [ ] | | |
-| 24 | | [ ] | | |
-| 25 | | [ ] | | |
-| 26 | | [ ] | | |
-| 27 | | [ ] | | |
-| 28 | | [ ] | | |
-| 29 | | [ ] | | |
-| 30 | | [ ] | | |
-| 31 | | [ ] | | |
-| 32 | | [ ] | | |
-| 33 | | [ ] | | |
-| 34 | | [ ] | | |
-| 35 | | [ ] | | |
-| 36 | | [ ] | | |
+| Level | Checkpoint | Completed | Notes |
+| --- | --- | --- | --- |
+| A | A1 Posture & Breath; Do–So echo | [ ] | |
+| A | A2 Beat vs. Words | [ ] | |
+| A | A3 Echo Pitch & Simple Dynamics | [ ] | |
+| A | A4 Tall Vowel Diction | [ ] | |
+| A | A5 Five-Note Scale (do–so) | [ ] | |
+| B | B1 Phrase Shape | [ ] | |
+| B | B2 Breath Timing | [ ] | |
+| B | B3 Round Basics | [ ] | |
+| B | B4 Sing a Simple Round | [ ] | |
+| B | B5 Rhythm Names (ta / ti-ti) | [ ] | |
+| C | C1 Read Note Steps C–G | [ ] | |
+| C | C2 Dynamic Contrast | [ ] | |
+| C | C3 Clear Consonants | [ ] | |
+| C | C4 Memory: Hymn Verse | [ ] | |
+| C | C5 Pitch Center & Tempo | [ ] | |
+| D | D1 Interval Sense (do–mi, do–so) | [ ] | |
+| D | D2 Long Notes, Calm Breath | [ ] | |
+| D | D3 Expressive Faces/Story | [ ] | |
+| D | D4 Round Accuracy & Balance | [ ] | |
+| D | D5 Notation Drill | [ ] | |
+| E | E1 Simple Harmony with Parent | [ ] | |
+| E | E2 Confident Start/Finish | [ ] | |
+| E | E3 Small Family Share | [ ] | |
 
 Milestones to watch:
 - Pitch match on do–mi–so

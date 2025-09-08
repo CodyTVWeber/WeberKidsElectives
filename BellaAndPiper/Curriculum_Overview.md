@@ -1,6 +1,6 @@
 ### Curriculum Overview (Classical Approach)
 
-This curriculum is designed for Bella (3) and Piper (5) with one lesson per child per week. Lessons are self-contained and progressive, so you can pause and resume anytime. The approach follows the Classical trivium:
+This curriculum is designed for Bella (3) and Piper (5). Lessons are self-contained and progressive, so you can pause and resume anytime. The approach follows the Classical trivium:
 
 - Grammar (3–6): memorize songs and patterns, form healthy habits (posture, breath, diction), internalize beat and pitch.
 - Logic (6–9): connect facts, read notation and rhythms, recognize intervals, sing simple harmony/rounds.
@@ -10,15 +10,15 @@ This curriculum is designed for Bella (3) and Piper (5) with one lesson per chil
 - Age 3 (Bella): joyful vocal exploration, simple solfège (do–so), steady beat, clear words, 1–2 short songs by memory.
 - Age 5 (Piper): accurate pitch center, 5-note scale patterns (do–so), basic rhythm reading (quarter/half rests), first rounds/harmony with parent, 2–3 songs by memory.
 
-### Session Structure (30–40 minutes)
-1) Welcome & posture (2–3 min)
-2) Breath + light warmups (5–7 min)
-3) Technique focus (5–7 min)
-4) Songwork with sheet music (10–15 min)
-5) Rhetoric mini-performance or hymn reflection (3–5 min)
-6) Assessment & stickers; note next step (2–3 min)
+### Session Structure (no fixed duration)
+1) Welcome & posture
+2) Breath + light warmups
+3) Technique focus
+4) Songwork with sheet music
+5) Rhetoric mini-performance or hymn reflection
+6) Assessment & stickers; note next step
 
-Each weekly plan contains an Age 3 adaptation and an Age 5 extension. If you only have time for 20–25 minutes, do steps 1–4 and mark partial completion.
+Each checkpoint includes an Age 3 adaptation and an Age 5 extension. Do as many steps as fit your moment; mark partial completion as needed.
 
 ### Materials
 - A4 paper prints of weekly score(s) from `sheet_music/`
