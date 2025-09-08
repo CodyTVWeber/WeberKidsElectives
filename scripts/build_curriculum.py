@@ -84,7 +84,7 @@ def transform_years_outline(md: str) -> str:
 
 
 def build_progression(root: Path) -> Path:
-    curriculum_dir = root / "curriculum"
+    curriculum_dir = root / "curriculum" / "mechanics"
     build_dir = root / "build"
     build_dir.mkdir(exist_ok=True)
 
