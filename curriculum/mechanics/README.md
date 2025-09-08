@@ -20,6 +20,6 @@ Use the `Theo/` plans as supplementary reading; this curriculum emphasizes stop-
 
 #### Build a single progression document
 - Compose a single Markdown (and optional PDF) from the nested files:
-  - Run: `scripts/build_curriculum.py`
-  - Output: `build/progression.md` (and `build/progression.pdf` if `pandoc` is installed)
+  - Run: `scripts/build_mechanic.py`
+  - Output: `build/mechanics-progression.md` (and `build/mechanics-progression.pdf` if `pandoc` is installed)
 

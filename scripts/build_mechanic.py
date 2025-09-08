@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Build a single progression-focused Markdown (and optional PDF) from the nested curriculum.
+Build a single progression-focused Markdown (and optional PDF) from the nested mechanic curriculum.
 
 - Removes week/year time references in composed output
 - Adds suggested age ranges where appropriate
+- Specifically builds the mechanics curriculum progression
 """
 
 from __future__ import annotations
@@ -84,7 +85,7 @@ def transform_years_outline(md: str) -> str:
 
 
 def build_progression(root: Path) -> Path:
-    curriculum_dir = root / "curriculum"
+    curriculum_dir = root / "curriculum" / "mechanics"
     build_dir = root / "build"
     build_dir.mkdir(exist_ok=True)
 
@@ -139,7 +140,7 @@ def build_progression(root: Path) -> Path:
         parts.append("---\n\n" + transform_years_outline(read_text(outline_path)))
 
     # Write Markdown
-    output_md = build_dir / "progression.md"
+    output_md = build_dir / "mechanics-progression.md"
     write_text(output_md, "\n".join(parts).strip() + "\n")
     return output_md
 

@@ -1,7 +1,7 @@
 # WeberKidsElectives
 
 ## Curriculum
-- Mechanics: see `curriculum/README.md` for the progression-based mechanics curriculum and build via `scripts/build_curriculum.py`.
+- Mechanics: see `curriculum/mechanics/README.md` for the progression-based mechanics curriculum and build via `scripts/build_mechanic.py`.
 - Music/Singing: see `curriculum/music/BellaAndPiper/README.md` and `build_curriculum.py` within that folder.
 - Math: see `curriculum/math/README.md` and build via `scripts/build_math.py`.
 - Reference plans in `Theo/`:
