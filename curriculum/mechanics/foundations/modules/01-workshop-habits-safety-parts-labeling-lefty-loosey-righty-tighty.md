@@ -6,18 +6,27 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Establish safety rules and workspace routines
 - Practice screwdriver control and fastener direction
 - Learn to bag/label parts and take progress photos
+- Sketch and label parts with arrows showing motion/force flow
+- Compare two designs for trade‑offs (speed, torque, complexity)
 
 #### Materials (prep)
 - PPE (glasses, closed‑toe shoes), magnetic parts tray, zip bags, painter’s tape/labels, markers
 - Assorted screws/bolts, two scrap boards with pilot holes
 - Take‑apart: click pen and one simple toy (no sharp edges)
+- Ruler or calipers; painter’s tape for labels; safety glasses as needed
 
 #### Grammar (vocab)
 - PPE, torque, fastener, clockwise/counterclockwise, organize
+- Input
+- Output
+- Trade‑off
+- Tolerance
 
 #### Logic prompts
 - If a screw won’t turn, what might be wrong? (bit size, direction, seized)
 - Why label bags even if there are only a few parts?
+- What changes if you double the gear ratio or lever arm?
+- How do you ensure parts go back in the correct order?
 
 #### Rhetoric (teach‑back)
 - Explain to a family member how to keep parts organized during teardown
@@ -33,8 +42,12 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 #### Portfolio
 - Notebook: date, objective, labeled sketch of toy with 3 parts, two sentences, next step
 - Photo log: before/after and parts layout
+- Add a labeled diagram with arrows; include one quantitative measurement
 
 #### Safety
 - Adult controls sharp edges; stop on any pinch/strip; tools back to home after use
+- Wear eye protection when appropriate; no loose hair/jewelry near moving parts
 
 See also: `../syllabus.md`
+
+<!-- enriched: v1 -->
