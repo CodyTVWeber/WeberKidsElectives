@@ -1,4 +1,4 @@
-### Week 14 — Belts & chains; belt/chain models
+### Belts & chains; belt/chain models
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Keep fingers out of moving loops
-

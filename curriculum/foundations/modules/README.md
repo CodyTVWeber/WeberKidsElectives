@@ -2,34 +2,33 @@
 
 Use these modules with the templates in `../../templates/` and the main `../syllabus.md`.
 
-- Module 01 — Workshop habits & safety; parts labeling
-- Module 02 — Levers; build a lever scale
-- Module 03 — Inclined plane & wedge; ramp tests
-- Module 04 — Wheel & axle; toy car teardown
-- Module 05 — Screws & fasteners; screw ID board
-- Module 06 — Pulleys; lift a weight
-- Module 07 — Springs & stored energy; click pen
-- Module 08 — Gears; LEGO/Technic ratios
-- Module 09 — Ratchets & pawls; tape measure demo
-- Module 10 — Mini‑capstone: Simple Machines Museum
-- Module 11 — Linkages & cams; cam automata
-- Module 12 — Clutches & friction; spinning disk demo
-- Module 13 — Bearings & bushings; fidget spinner
-- Module 14 — Belts & chains; belt/chain models
-- Module 15 — Valves & flow; syringe check valve
-- Module 16 — Measuring & tolerances; go/no‑go gauge
-- Module 17 — Materials: wood/metal/plastic comparison
-- Module 18 — Exploded diagrams; stapler rebuild
-- Module 19 — Take‑apart day: timer/can opener
-- Module 20 — Mini‑capstone: narrated poster
-- Module 21 — Systems: input‑process‑output maps
-- Module 22 — Energy forms; rubber band car
-- Module 23 — Basic DC circuits: battery, switch, motor
-- Module 24 — Motors vs engines; four‑stroke chant
-- Module 25 — Sensors as feelers; reed switch buzzer
-- Module 26 — Tool care and storage; torque respect
-- Module 27 — Practicum: wind‑up toy teardown/rebuild
-- Module 28 — Fastener board timed challenge
-- Module 29 — Teach‑back: chosen mechanism
-- Module 30 — Capstone: family demo and portfolio
-
+- [Workshop habits & safety; parts labeling; lefty‑loosey/righty‑tighty](01-workshop-habits-safety-parts-labeling-lefty-loosey-righty-tighty.md)
+- [Levers: classes and lever scale](02-levers-classes-and-lever-scale.md)
+- [Inclined plane & wedge; ramp tests](03-inclined-plane-wedge-ramp-tests.md)
+- [Wheel & axle; toy car teardown](04-wheel-axle-toy-car-teardown.md)
+- [Screws & fasteners; screw ID board](05-screws-fasteners-screw-id-board.md)
+- [Pulleys: single vs compound; lift a weight](06-pulleys-single-vs-compound-lift-a-weight.md)
+- [Springs & stored energy](07-springs-stored-energy.md)
+- [Gears: spur vs worm; gear ratios with LEGO/Technic](08-gears-spur-vs-worm-gear-ratios-with-lego-technic.md)
+- [Ratchets & pawls; tape measure teardown](09-ratchets-pawls-tape-measure-teardown.md)
+- [Mini‑capstone: Simple Machines Museum](10-mini-capstone-simple-machines-museum.md)
+- [Linkages & cams; cardboard cam automata](11-linkages-cams-cardboard-cam-automata.md)
+- [Clutches & friction; spinning disk demo](12-clutches-friction-spinning-disk-demo.md)
+- [Bearings & bushings; fidget spinner teardown](13-bearings-bushings-fidget-spinner-teardown.md)
+- [Belts & chains; belt/chain models](14-belts-chains-belt-chain-models.md)
+- [Valves & flow; syringe check valve](15-valves-flow-syringe-check-valve.md)
+- [Measuring & tolerances; go/no‑go gauge](16-measuring-tolerances-go-no-go-gauge.md)
+- [Materials: wood vs metal vs plastic; compare](17-materials-wood-vs-metal-vs-plastic-compare.md)
+- [Exploded diagrams; stapler rebuild](18-exploded-diagrams-stapler-rebuild.md)
+- [Take‑apart day: kitchen timer or manual can opener](19-take-apart-day-kitchen-timer-or-manual-can-opener.md)
+- [Mini‑capstone: narrated poster](20-mini-capstone-narrated-poster.md)
+- [Systems: input‑process‑output maps](21-systems-input-process-output-maps.md)
+- [Energy forms; rubber band car](22-energy-forms-rubber-band-car.md)
+- [Basic DC circuits: battery, switch, motor](23-basic-dc-circuits-battery-switch-motor.md)
+- [Motors vs engines; four‑stroke chant](24-motors-vs-engines-four-stroke-chant.md)
+- [Sensors as “feelers”: reed switch buzzer](25-sensors-as-feelers-reed-switch-buzzer.md)
+- [Tool care and storage; torque respect](26-tool-care-and-storage-torque-respect.md)
+- [Practicum: wind‑up toy full teardown/rebuild](27-practicum-wind-up-toy-full-teardown-rebuild.md)
+- [Fastener board timed challenge](28-fastener-board-timed-challenge.md)
+- [Teach‑back: chosen mechanism](29-teach-back-chosen-mechanism.md)
+- [Capstone: family demo and portfolio check](30-capstone-family-demo-and-portfolio-check.md)

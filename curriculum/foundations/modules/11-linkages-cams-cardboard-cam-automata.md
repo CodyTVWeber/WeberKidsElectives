@@ -1,4 +1,4 @@
-### Week 11 — Linkages & cams; cardboard cam automata
+### Linkages & cams; cardboard cam automata
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Adult handles sharp cutting
-

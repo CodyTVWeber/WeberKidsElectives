@@ -1,4 +1,4 @@
-### Week 04 — Wheel & axle; toy car teardown
+### Wheel & axle; toy car teardown
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -29,4 +29,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Keep small parts contained; magnet tray prevents loss
-

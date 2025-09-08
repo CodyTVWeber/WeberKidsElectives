@@ -1,4 +1,4 @@
-### Week 02 — Levers: classes and lever scale
+### Levers: classes and lever scale
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -30,4 +30,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - No sharp edges; keep lever stable to avoid pinches
-

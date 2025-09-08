@@ -1,4 +1,4 @@
-### Week 08 — Gears: spur vs worm; gear ratios with LEGO/Technic
+### Gears: spur vs worm; gear ratios with LEGO/Technic
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -28,4 +28,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Keep small parts contained; no mouth contact
-

@@ -1,4 +1,4 @@
-### Week 06 — Pulleys: single vs compound; lift a weight
+### Pulleys: single vs compound; lift a weight
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -28,4 +28,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Keep toes clear of falling weight; check knots
-

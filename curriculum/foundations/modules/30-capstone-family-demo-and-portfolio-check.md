@@ -1,4 +1,4 @@
-### Week 30 — Capstone: family demo and portfolio check
+### Capstone: family demo and portfolio check
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -12,4 +12,3 @@ Use: `../../templates/weekly-session-template.md`
 1) Set up display; rehearse 3–5 minutes (20–25 min)
 2) Family demo (10 min)
 3) Award “Foundations” badge; plan Year 2 (10 min)
-

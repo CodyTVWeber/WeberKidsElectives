@@ -1,4 +1,4 @@
-### Week 01 — Workshop habits & safety; parts labeling; lefty‑loosey/righty‑tighty
+### Workshop habits & safety; parts labeling; lefty‑loosey/righty‑tighty
 
 Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-checklist.md`, `../../templates/engineers-notebook-template.md`
 
@@ -38,4 +38,3 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Adult controls sharp edges; stop on any pinch/strip; tools back to home after use
 
 See also: `../syllabus.md`
-

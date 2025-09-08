@@ -1,4 +1,4 @@
-### Week 29 — Teach‑back: chosen mechanism
+### Teach‑back: chosen mechanism
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -12,4 +12,3 @@ Use: `../../templates/weekly-session-template.md`
 1) Choose mechanism; prepare sketch and points (15–20 min)
 2) Deliver teach‑back to family (5 min)
 3) Notebook reflection; Stop Here (10–15 min)
-

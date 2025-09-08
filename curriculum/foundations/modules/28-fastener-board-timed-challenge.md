@@ -1,4 +1,4 @@
-### Week 28 — Fastener board timed challenge
+### Fastener board timed challenge
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -15,4 +15,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - No rushing that causes slips; stop if bit jumps
-

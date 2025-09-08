@@ -1,4 +1,4 @@
-### Week 18 — Exploded diagrams; stapler rebuild
+### Exploded diagrams; stapler rebuild
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Control spring; adult assists
-

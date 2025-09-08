@@ -1,4 +1,4 @@
-### Week 23 — Basic DC circuits: battery, switch, motor
+### Basic DC circuits: battery, switch, motor
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -17,4 +17,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Low voltage only; no mains; avoid short circuits
-

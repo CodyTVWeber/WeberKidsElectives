@@ -1,4 +1,4 @@
-### Week 25 — Sensors as “feelers”: reed switch buzzer
+### Sensors as “feelers”: reed switch buzzer
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -15,4 +15,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Polarity for LED; avoid short circuits
-

@@ -1,4 +1,4 @@
-### Week 16 — Measuring & tolerances; go/no‑go gauge
+### Measuring & tolerances; go/no‑go gauge
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Adult handles drilling
-

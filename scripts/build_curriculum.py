@@ -35,26 +35,27 @@ def transform_week_content(md: str, suggested_ages: str) -> str:
     lines = md.splitlines()
     out_lines: list[str] = []
     heading_handled = False
-    week_heading_pattern = re.compile(r"^(#+)\s+Week\s+\d+\s+[—-]\s*(.+)$")
+    any_heading_pattern = re.compile(r"^(#+)\s+(.+)$")
     procedure_heading_pattern = re.compile(r"^(#+\s+Procedure)\s*\([^)]*\)\s*$", re.IGNORECASE)
     for line in lines:
-        m = week_heading_pattern.match(line.strip())
+        stripped = line.strip()
+        m = any_heading_pattern.match(stripped)
         if m and not heading_handled:
-            # Replace heading, insert suggested ages line after it
-            out_lines.append(f"{m.group(1)} {m.group(2)}")
+            # Keep heading text as-is, then add suggested ages
+            out_lines.append(line)
             out_lines.append(f"Suggested ages: {suggested_ages}")
             heading_handled = True
             continue
         # Normalize Procedure heading by removing time annotation
-        p = procedure_heading_pattern.match(line.strip())
+        p = procedure_heading_pattern.match(stripped)
         if p:
             out_lines.append(p.group(1))
             continue
         # Drop template file path references in compiled doc
-        if line.strip().startswith("Use:"):
+        if stripped.startswith("Use:"):
             continue
         # Drop cross-file pointers
-        if line.strip().startswith("See also:"):
+        if stripped.startswith("See also:"):
             continue
         # Replace references like "Week 5" or "Weeks 2–9" with "earlier work"
         line = re.sub(r"Weeks?\s+\d+(?:\s*[–-]\s*\d+)?", "earlier work", line)
@@ -122,7 +123,10 @@ def build_progression(root: Path) -> Path:
     weeks_dir = curriculum_dir / "foundations" / "modules"
     if weeks_dir.exists():
         parts.append("## Foundations (suggested ages 6–7)\n\n")
-        for week_file in sorted(weeks_dir.glob("week-*.md")):
+        files = sorted(weeks_dir.glob("*.md"))
+        for week_file in files:
+            if week_file.name.lower() == "readme.md":
+                continue
             transformed = transform_week_content(read_text(week_file), suggested_ages="6–7")
             parts.append(transformed)
 

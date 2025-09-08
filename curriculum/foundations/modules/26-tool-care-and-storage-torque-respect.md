@@ -1,4 +1,4 @@
-### Week 26 — Tool care and storage; torque respect
+### Tool care and storage; torque respect
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -15,4 +15,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Minimal oil; wipe hands before handling other items
-

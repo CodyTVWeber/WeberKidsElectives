@@ -1,4 +1,4 @@
-### Week 19 — Take‑apart day: kitchen timer or manual can opener
+### Take‑apart day: kitchen timer or manual can opener
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -16,4 +16,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Tape sharp edges; supervise
-

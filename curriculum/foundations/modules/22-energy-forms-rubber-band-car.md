@@ -1,4 +1,4 @@
-### Week 22 — Energy forms; rubber band car
+### Energy forms; rubber band car
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -15,4 +15,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Supervise skewers; avoid snapping bands toward face
-

@@ -1,4 +1,4 @@
-### Week 09 — Ratchets & pawls; tape measure teardown
+### Ratchets & pawls; tape measure teardown
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -28,4 +28,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Adult supervises recoil spring; keep fingers clear
-

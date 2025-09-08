@@ -1,4 +1,4 @@
-### Week 07 — Springs & stored energy
+### Springs & stored energy
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -28,4 +28,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Control slinky/snaps; keep eyes protected
-

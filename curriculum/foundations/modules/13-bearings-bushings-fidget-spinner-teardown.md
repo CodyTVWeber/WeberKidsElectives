@@ -1,4 +1,4 @@
-### Week 13 — Bearings & bushings; fidget spinner teardown
+### Bearings & bushings; fidget spinner teardown
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Small parts hazard; contain
-

@@ -1,4 +1,4 @@
-### Week 05 — Screws & fasteners; screw ID board
+### Screws & fasteners; screw ID board
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -30,4 +30,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Adult handles drilling; keep fingers away from screw tips
-

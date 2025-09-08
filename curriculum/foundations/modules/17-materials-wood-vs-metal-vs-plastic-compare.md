@@ -1,4 +1,4 @@
-### Week 17 — Materials: wood vs metal vs plastic; compare
+### Materials: wood vs metal vs plastic; compare
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Avoid sharp edges; supervise
-

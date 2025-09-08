@@ -1,4 +1,4 @@
-### Week 10 — Mini‑capstone: Simple Machines Museum
+### Mini‑capstone: Simple Machines Museum
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -16,4 +16,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Assessment
 - Can identify machine and tell how it makes work easier
-

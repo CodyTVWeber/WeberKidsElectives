@@ -1,4 +1,4 @@
-### Week 27 — Practicum: wind‑up toy full teardown/rebuild
+### Practicum: wind‑up toy full teardown/rebuild
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -15,4 +15,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Control springs; small parts contained
-

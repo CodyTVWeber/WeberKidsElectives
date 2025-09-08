@@ -1,4 +1,4 @@
-### Week 12 — Clutches & friction; spinning disk demo
+### Clutches & friction; spinning disk demo
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Keep fingers clear of fast rotation
-

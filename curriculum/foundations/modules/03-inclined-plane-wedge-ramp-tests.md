@@ -1,4 +1,4 @@
-### Week 03 — Inclined plane & wedge; ramp tests
+### Inclined plane & wedge; ramp tests
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -29,4 +29,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Stabilize ramps; keep fingers clear
-

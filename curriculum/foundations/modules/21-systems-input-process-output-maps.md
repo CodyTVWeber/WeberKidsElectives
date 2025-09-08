@@ -1,4 +1,4 @@
-### Week 21 — Systems: input‑process‑output maps
+### Systems: input‑process‑output maps
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -12,4 +12,3 @@ Use: `../../templates/weekly-session-template.md`
 1) Define system; map two examples with 3‑box diagram (20–25 min)
 2) Discuss failure modes: if no output, which input/process could fail? (10 min)
 3) Notebook; Stop Here (10–15 min)
-

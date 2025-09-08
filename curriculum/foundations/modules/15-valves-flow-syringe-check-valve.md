@@ -1,4 +1,4 @@
-### Week 15 — Valves & flow; syringe check valve
+### Valves & flow; syringe check valve
 
 Use: `../../templates/weekly-session-template.md`
 
@@ -18,4 +18,3 @@ Use: `../../templates/weekly-session-template.md`
 
 #### Safety
 - Use clean components; no mouth contact
-
