@@ -13,7 +13,7 @@ import subprocess
 from pathlib import Path
 
 
-MODULES_DIR = Path(__file__).resolve().parents[1] / "curriculum" / "mechanics" / "foundations" / "modules"
+MODULES_DIR = Path(__file__).resolve().parents[1] / "curriculum" / "foundations" / "modules"
 INDEX_PATH = MODULES_DIR / "README.md"
 
 
