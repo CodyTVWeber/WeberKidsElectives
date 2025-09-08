@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Clap while speaking lyrics; then sing on beat
 
 #### Materials
-- `BellaAndPiper/sheet_music/Mary_Had_a_Little_Lamb_C.ly` (print)
+- `sheet_music/Mary_Had_a_Little_Lamb_C.ly` (print)
 
 #### Grammar
 - Beat, rhythm, lyric, steady

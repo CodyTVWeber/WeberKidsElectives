@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Shape a phrase with a gentle swell
 
 #### Materials
-- `BellaAndPiper/sheet_music/Home_On_The_Range_C.ly`
+- `sheet_music/Home_On_The_Range_C.ly`
 - Scarf for phrase arc
 
 #### Grammar

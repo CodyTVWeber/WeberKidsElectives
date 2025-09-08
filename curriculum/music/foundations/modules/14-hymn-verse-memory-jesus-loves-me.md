@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Keep gentle phrasing and tall vowels
 
 #### Materials
-- `BellaAndPiper/sheet_music/Jesus_Loves_Me_C.ly` (for reference only)
+- `sheet_music/Jesus_Loves_Me_C.ly` (for reference only)
 
 #### Grammar
 - Memory, verse, phrasing

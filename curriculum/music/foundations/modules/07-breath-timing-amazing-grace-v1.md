@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Sustain a calm tone
 
 #### Materials
-- `BellaAndPiper/sheet_music/Amazing_Grace_simple_C.ly`
+- `sheet_music/Amazing_Grace_simple_C.ly`
 
 #### Grammar
 - Breath mark, sustain, phrase end

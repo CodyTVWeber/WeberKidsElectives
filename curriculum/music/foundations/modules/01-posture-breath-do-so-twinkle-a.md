@@ -8,7 +8,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Match do–so patterns and sing Twinkle phrase A
 
 #### Materials (prep)
-- `BellaAndPiper/sheet_music/Twinkle_Twinkle_simple_C.ly` (print)
+- `sheet_music/Twinkle_Twinkle_simple_C.ly` (print)
 - Scarf/ribbon; metronome ~72 BPM
 
 #### Grammar (vocab)

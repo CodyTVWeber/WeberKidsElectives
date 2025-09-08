@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Keep steady beat while singing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Twinkle_Twinkle_simple_C.ly`
+- `sheet_music/Twinkle_Twinkle_simple_C.ly`
 
 #### Grammar
 - Beat, rhythm, ta, ti‑ti

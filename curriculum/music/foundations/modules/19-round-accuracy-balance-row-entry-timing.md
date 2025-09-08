@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Balance volume to hear both parts
 
 #### Materials
-- `BellaAndPiper/sheet_music/Row_Row_Row_Your_Boat_C.ly`
+- `sheet_music/Row_Row_Row_Your_Boat_C.ly`
 
 #### Grammar
 - Balance, entry timing, overlap

@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Keep pitch center while changing dynamics
 
 #### Materials
-- `BellaAndPiper/sheet_music/Row_Row_Row_Your_Boat_C.ly`
+- `sheet_music/Row_Row_Row_Your_Boat_C.ly`
 
 #### Grammar
 - Dynamics, soft (p), medium (mf)
