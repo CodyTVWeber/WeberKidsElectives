@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Track the highest note in a phrase
 
 #### Materials
-- `BellaAndPiper/sheet_music/Skip_To_My_Lou_C.ly`
+- `sheet_music/Skip_To_My_Lou_C.ly`
 - Scarf/ribbon
 
 #### Grammar

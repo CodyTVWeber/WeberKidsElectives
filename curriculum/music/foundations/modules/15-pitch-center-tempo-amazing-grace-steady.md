@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Avoid dragging or rushing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Amazing_Grace_simple_C.ly`
+- `sheet_music/Amazing_Grace_simple_C.ly`
 - Metronome (slow, e.g., 60–66 BPM)
 
 #### Grammar

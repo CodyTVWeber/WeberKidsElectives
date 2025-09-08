@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Match note heads to solfège or letter names
 
 #### Materials
-- `BellaAndPiper/sheet_music/Mary_Had_a_Little_Lamb_C.ly`
+- `sheet_music/Mary_Had_a_Little_Lamb_C.ly`
 
 #### Grammar
 - Step, staff, note head, line, space

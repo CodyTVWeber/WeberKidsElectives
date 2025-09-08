@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Switch between step and skip patterns
 
 #### Materials
-- `BellaAndPiper/sheet_music/solfege_patterns_C_major.ly`
+- `sheet_music/solfege_patterns_C_major.ly`
 
 #### Grammar
 - Interval, third, fifth, do, mi, so

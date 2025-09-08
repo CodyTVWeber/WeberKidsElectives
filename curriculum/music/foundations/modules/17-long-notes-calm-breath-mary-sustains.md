@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Place breaths only at phrase ends
 
 #### Materials
-- `BellaAndPiper/sheet_music/Mary_Had_a_Little_Lamb_C.ly`
+- `sheet_music/Mary_Had_a_Little_Lamb_C.ly`
 
 #### Grammar
 - Sustain, steady tone, breath placement

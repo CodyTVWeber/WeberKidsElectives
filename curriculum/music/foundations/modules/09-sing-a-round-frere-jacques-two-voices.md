@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Hold your line while hearing the other part
 
 #### Materials
-- `BellaAndPiper/sheet_music/Frere_Jacques_round_C.ly`
+- `sheet_music/Frere_Jacques_round_C.ly`
 
 #### Grammar
 - Entry, part, blend

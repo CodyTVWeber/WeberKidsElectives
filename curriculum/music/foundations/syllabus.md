@@ -30,5 +30,5 @@ Progression modules grouped by singing fundamentals. Use the session template an
 19. Round Accuracy & Balance (Row entry timing)
 20. Performance Basics (start note, finish, bow)
 
-Use: `../templates/weekly-session-template.md`, `../templates/stop-here-checklist.md`, and sheet music in `../../music/BellaAndPiper/sheet_music/`.
+Use: `../templates/weekly-session-template.md`, `../templates/stop-here-checklist.md`, and sheet music in `../../music/sheet_music/`.
 

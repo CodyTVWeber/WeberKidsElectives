@@ -7,7 +7,7 @@ Use: `../../templates/weekly-session-template.md`, `../../templates/stop-here-ch
 - Sing one verse with gentle phrasing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Jesus_Loves_Me_C.ly`
+- `sheet_music/Jesus_Loves_Me_C.ly`
 
 #### Grammar
 - Vowel, diction, phrase

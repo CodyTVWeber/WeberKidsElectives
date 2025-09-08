@@ -36,7 +36,7 @@ Suggested ages: 3–7
 - Match do–so patterns and sing Twinkle phrase A
 
 #### Materials (prep)
-- `BellaAndPiper/sheet_music/Twinkle_Twinkle_simple_C.ly` (print)
+- `sheet_music/Twinkle_Twinkle_simple_C.ly` (print)
 - Scarf/ribbon; metronome ~72 BPM
 
 #### Grammar (vocab)
@@ -73,7 +73,7 @@ Suggested ages: 3–7
 - Clap while speaking lyrics; then sing on beat
 
 #### Materials
-- `BellaAndPiper/sheet_music/Mary_Had_a_Little_Lamb_C.ly` (print)
+- `sheet_music/Mary_Had_a_Little_Lamb_C.ly` (print)
 
 #### Grammar
 - Beat, rhythm, lyric, steady
@@ -106,7 +106,7 @@ Suggested ages: 3–7
 - Explore soft vs medium singing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Row_Row_Row_Your_Boat_C.ly`
+- `sheet_music/Row_Row_Row_Your_Boat_C.ly`
 
 #### Grammar
 - Echo, dynamics, soft (p), medium (mf)
@@ -140,7 +140,7 @@ Suggested ages: 3–7
 - Sing one verse with gentle phrasing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Jesus_Loves_Me_C.ly`
+- `sheet_music/Jesus_Loves_Me_C.ly`
 
 #### Grammar
 - Vowel, diction, phrase
@@ -173,8 +173,8 @@ Suggested ages: 3–7
 - Identify steps vs skips
 
 #### Materials
-- `BellaAndPiper/sheet_music/solfege_patterns_C_major.ly`
-- `BellaAndPiper/sheet_music/warmups_five_note_scale_C_major.ly`
+- `sheet_music/solfege_patterns_C_major.ly`
+- `sheet_music/warmups_five_note_scale_C_major.ly`
 
 #### Grammar
 - Solfège, step, skip, scale
@@ -207,7 +207,7 @@ Suggested ages: 3–7
 - Track the highest note in a phrase
 
 #### Materials
-- `BellaAndPiper/sheet_music/Skip_To_My_Lou_C.ly`
+- `sheet_music/Skip_To_My_Lou_C.ly`
 - Scarf/ribbon
 
 #### Grammar
@@ -241,7 +241,7 @@ Suggested ages: 3–7
 - Sustain a calm tone
 
 #### Materials
-- `BellaAndPiper/sheet_music/Amazing_Grace_simple_C.ly`
+- `sheet_music/Amazing_Grace_simple_C.ly`
 
 #### Grammar
 - Breath mark, sustain, phrase end
@@ -274,7 +274,7 @@ Suggested ages: 3–7
 - Count a one‑bar intro
 
 #### Materials
-- `BellaAndPiper/sheet_music/Frere_Jacques_round_C.ly`
+- `sheet_music/Frere_Jacques_round_C.ly`
 
 #### Grammar
 - Round, entry, overlap
@@ -306,7 +306,7 @@ Suggested ages: 3–7
 - Hold your line while hearing the other part
 
 #### Materials
-- `BellaAndPiper/sheet_music/Frere_Jacques_round_C.ly`
+- `sheet_music/Frere_Jacques_round_C.ly`
 
 #### Grammar
 - Entry, part, blend
@@ -338,7 +338,7 @@ Suggested ages: 3–7
 - Keep steady beat while singing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Twinkle_Twinkle_simple_C.ly`
+- `sheet_music/Twinkle_Twinkle_simple_C.ly`
 
 #### Grammar
 - Beat, rhythm, ta, ti‑ti
@@ -370,7 +370,7 @@ Suggested ages: 3–7
 - Match note heads to solfège or letter names
 
 #### Materials
-- `BellaAndPiper/sheet_music/Mary_Had_a_Little_Lamb_C.ly`
+- `sheet_music/Mary_Had_a_Little_Lamb_C.ly`
 
 #### Grammar
 - Step, staff, note head, line, space
@@ -402,7 +402,7 @@ Suggested ages: 3–7
 - Keep pitch center while changing dynamics
 
 #### Materials
-- `BellaAndPiper/sheet_music/Row_Row_Row_Your_Boat_C.ly`
+- `sheet_music/Row_Row_Row_Your_Boat_C.ly`
 
 #### Grammar
 - Dynamics, soft (p), medium (mf)
@@ -435,7 +435,7 @@ Suggested ages: 3–7
 - Keep rhythm steady while articulating
 
 #### Materials
-- `BellaAndPiper/sheet_music/Yankee_Doodle_C.ly`
+- `sheet_music/Yankee_Doodle_C.ly`
 
 #### Grammar
 - Consonant, articulation, diction
@@ -467,7 +467,7 @@ Suggested ages: 3–7
 - Keep gentle phrasing and tall vowels
 
 #### Materials
-- `BellaAndPiper/sheet_music/Jesus_Loves_Me_C.ly` (for reference only)
+- `sheet_music/Jesus_Loves_Me_C.ly` (for reference only)
 
 #### Grammar
 - Memory, verse, phrasing
@@ -499,7 +499,7 @@ Suggested ages: 3–7
 - Avoid dragging or rushing
 
 #### Materials
-- `BellaAndPiper/sheet_music/Amazing_Grace_simple_C.ly`
+- `sheet_music/Amazing_Grace_simple_C.ly`
 - Metronome (slow, e.g., 60–66 BPM)
 
 #### Grammar
@@ -532,7 +532,7 @@ Suggested ages: 3–7
 - Switch between step and skip patterns
 
 #### Materials
-- `BellaAndPiper/sheet_music/solfege_patterns_C_major.ly`
+- `sheet_music/solfege_patterns_C_major.ly`
 
 #### Grammar
 - Interval, third, fifth, do, mi, so
@@ -564,7 +564,7 @@ Suggested ages: 3–7
 - Place breaths only at phrase ends
 
 #### Materials
-- `BellaAndPiper/sheet_music/Mary_Had_a_Little_Lamb_C.ly`
+- `sheet_music/Mary_Had_a_Little_Lamb_C.ly`
 
 #### Grammar
 - Sustain, steady tone, breath placement
@@ -597,7 +597,7 @@ Suggested ages: 3–7
 - Shape a phrase with a gentle swell
 
 #### Materials
-- `BellaAndPiper/sheet_music/Home_On_The_Range_C.ly`
+- `sheet_music/Home_On_The_Range_C.ly`
 - Scarf for phrase arc
 
 #### Grammar
@@ -630,7 +630,7 @@ Suggested ages: 3–7
 - Balance volume to hear both parts
 
 #### Materials
-- `BellaAndPiper/sheet_music/Row_Row_Row_Your_Boat_C.ly`
+- `sheet_music/Row_Row_Row_Your_Boat_C.ly`
 
 #### Grammar
 - Balance, entry timing, overlap
@@ -721,4 +721,4 @@ Progression modules grouped by singing fundamentals. Use the session template an
 19. Round Accuracy & Balance (Row entry timing)
 20. Performance Basics (start note, finish, bow)
 
-Use: `../templates/weekly-session-template.md`, `../templates/stop-here-checklist.md`, and sheet music in `../../music/BellaAndPiper/sheet_music/`.
+Use: `../templates/weekly-session-template.md`, `../templates/stop-here-checklist.md`, and sheet music in `../../music/sheet_music/`.
